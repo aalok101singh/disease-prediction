@@ -14,7 +14,7 @@ An ANN Project to Predict Heart Disease Using Machine Learning and Streamlit to 
 ## Dataset
 
 The dataset used for this project can be found on Kaggle at the following link:
-[Heart Disease Dataset]([https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction])
+[Heart Disease Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Jupyter Notebook
 
