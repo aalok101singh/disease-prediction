@@ -5,9 +5,9 @@ import pickle
 import base64
 
 st.title("Heart Disease Predictor")
-taba, = st.tabs(['Predict'])
+tab1 = st.tabs(['Predict'])[0]
 
-with tab:
+with tab1:
     age = st.number_input("Age (years)", min_value=0, max_value=150)
     sex = st.selectbox("Sex", ["Male", "Female"])
     chest_pain = st.selectbox("Chest Pain Type", ["Typical Angina", "Atypical Angina", "Non-Anginal Pain", "Asymptomatic"])
@@ -72,4 +72,5 @@ with tab:
             else:
                 st.write("Heart disease detected.")
             st.markdown('----------------------------')
+
 
