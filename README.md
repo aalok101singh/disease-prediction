@@ -23,7 +23,7 @@ The dataset used for this project can be found on Kaggle at the following link:
 ## Live Project
 
 You can access the live project by following this link:
-[Heart Disease Prediction App]([https://www.google.com](https://disease-prediction-11.streamlit.app/))
+[Heart Disease Prediction App](https://disease-prediction-11.streamlit.app/)
 
 ## Instructions for Running the App Locally
 1. Clone this repository to your local machine.
